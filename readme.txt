@@ -1,2 +1,2 @@
-I changed the scentence in this row
+the new one is generated
 Git is a free solftware
